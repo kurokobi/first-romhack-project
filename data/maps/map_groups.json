@@ -140,7 +140,8 @@
     "LittlerootTown_BrendansHouse_2F",
     "LittlerootTown_MaysHouse_1F",
     "LittlerootTown_MaysHouse_2F",
-    "LittlerootTown_ProfessorBirchsLab"
+    "LittlerootTown_ProfessorBirchsLab",
+    "NewBirchLab"
   ],
   "gMapGroup_IndoorOldale": [
     "OldaleTown_House1",
@@ -624,7 +625,9 @@
     "NavelRock_Down10",
     "NavelRock_Down11",
     "NavelRock_Bottom",
-    "TrainerHill_Elevator"
+    "TrainerHill_Elevator",
+    "BattleFrontier_1",
+    "BattleFrontier1_Lobby"
   ],
   "gMapGroup_IndoorRoute104Prototype": [
     "Route104_Prototype",
